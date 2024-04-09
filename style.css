@@ -1,0 +1,275 @@
+
+.Desktop1 {
+  width: 1440px;
+  height: 4460px;
+  position: relative;
+  background: white;
+}
+
+.Home {
+  left: 196px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Rent {
+  left: 581px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.LogIn {
+  left: 1171px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.News {
+  left: 866px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Commercials {
+  left: 975px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.FindAgents {
+  left: 699px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Sell {
+  left: 456px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Buy {
+  left: 327px;
+  top: 41px;
+  position: absolute;
+  color: black;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Rectangle1 {
+  width: 150px;
+  height: 48px;
+  left: 1254px;
+  top: 28px;
+  position: absolute;
+  background: #33691E;
+  border-radius: 10px;
+}
+
+.SignUp {
+  left: 1296px;
+  top: 41px;
+  position: absolute;
+  color: white;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.RetroSpace {
+  left: 71px;
+  top: 20px;
+  position: absolute;
+  color: #33691E;
+  font-size: 24px;
+  font-family: Roboto;
+  font-weight: 900;
+  word-wrap: break-word;
+}
+
+.Rectangle2 {
+  width: 1440px;
+  height: 150px;
+  left: 0px;
+  top: 593px;
+  position: absolute;
+  background: #B2E39E;
+}
+
+.HappyClients {
+  left: 317px;
+  top: 671px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.YearsGrowth {
+  left: 961px;
+  top: 671px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.VerifiedAgents {
+  left: 760px;
+  top: 671px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+.PropertyReady {
+  left: 548px;
+  top: 671px;
+  position: absolute;
+  color: #7F7C7C;
+  font-size: 20px;
+  font-family: Roboto;
+  font-weight: 400;
+  word-wrap: break-word;
+}
+
+div[style*="left: 347px; top: 636px; position: absolute; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word"] {
+  left: 347px;
+  top: 636px;
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+div[style*="left: 1002px; top: 636px; position: absolute; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word"] {
+  left: 1002px;
+  top: 636px;
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+div[style*="left: 802px; top: 636px; position: absolute; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word"] {
+  left: 802px;
+  top: 636px;
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+div[style*="left: 585px; top: 636px; position: absolute; color: black; font-size: 30px; font-family: Roboto; font-weight: 500; word-wrap: break-word"] {
+  left: 585px;
+  top: 636px;
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  font-family: Roboto;
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.Rectangle3 {
+  width: 1440px;
+  height: 70px;
+  left: 0px;
+  top: 848px;
+  position: absolute;
+  background: white;
+}
+
+.Rectangle4 {
+  width: 70px;
+  height: 70px;
+  left: 1261px;
+  top: 848px;
+  position: absolute;
+  background: white;
+}
+
+.Rectangle10 {
+  width: 70px;
+  height: 70px;
+  left: 1081px;
+  top: 848px;
+  position: absolute;
+  background: white;
+}
+
+.Rectangle5 {
+  width: 70px;
+  height: 70px;
+  left: 901px;
+  top: 848px;
+  position: absolute;
+  background: white;
+}
+
+.Shop {
+  width: 70px;
+  height: 70px;
+  left: 1258px;
+  top: 848px;
+  position: absolute;
+}
+
+.Warehouse {
+  width: 70px;
+  height: 70px;
+  left: 1081px;
+  top: 1px;
+} 
